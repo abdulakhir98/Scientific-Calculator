@@ -9,4 +9,4 @@ Open it in Visual Studio.
 Run it.
 
 ## Language
-- Java
+- C#
